@@ -1,7 +1,5 @@
 <?php
 
-//namespace Task02\Vector;
-
 class Vector
 {
     private $x;
